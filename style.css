@@ -1,0 +1,19 @@
+.heading{
+font-size: 25px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 5px darkcyan;
+
+}
+.hdiv{
+    float:none;
+    background:white;
+    padding:10px;
+    border: radius 20px;
+    color:black;
+    box-shadow: 5px 5px 5px darkblue;
+
+}
+.hdiv2{
+    font-size: 18px;
+}
